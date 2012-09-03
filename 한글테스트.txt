@@ -1,1 +1,6 @@
 한글테스트
+
+아래 설정 하고 해 봄.
+git config --global i18n.commitEncoding cp949
+git config --global i18n.logOutputEncoding cp949
+set LESSCHARSET=latin1
